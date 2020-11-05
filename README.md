@@ -1,2 +1,2 @@
 # LeetCodeProblems
-This project includes solutions of problems in LeetCode
+Solutions of some problems in LeetCode
